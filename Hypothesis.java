@@ -4,9 +4,8 @@
  * Defines a new "Hypothesis" type, which is a path that represents
  * a hypothesized utterance, obtained by searching a lattice
  *
- * This class has already been implemented for you.
  * 
- * Brian Hutchinson
+ * Author: B. Hutchinson
  * January 2016
  *
  */
