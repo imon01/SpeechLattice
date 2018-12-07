@@ -7,7 +7,6 @@
  * Note that the Edge type is immutable: after the fields are initialized
  * in the constructor, they cannot be modified.
  *
- * This class has been implemented for you
  * 
  * Author: B. Hutchinson
  * Janary 2016
